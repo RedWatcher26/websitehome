@@ -1,0 +1,3 @@
+This is a text file that's in a folder on the website, 
+which proves that github can serve files that are in subfolders. 
+I need to serve files from my .well-known folder for mta-sts, which it hasn't done yet.
